@@ -1,0 +1,19 @@
+:root {
+    --clr-neon: hsl(317 100% 54%);
+    --clr-bg: hsl(317 100% 54%);
+}
+*,
+*::before::after {
+    box-sizing: border-box;
+}
+body{
+    min-height: 10vh;
+        displau:gird;
+    place-items:center;
+    background: var(--clr-bg);
+    font-family : "Balsamiq Sans", cursive;
+    color: var (--clr-neon);
+}
+
+
+
